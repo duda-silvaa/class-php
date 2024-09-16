@@ -39,7 +39,7 @@
 <body>
 
 <div class="informacoes">
-    <h2>Informações do Cliente</h2>
+    <h2>Informações dos Clientes</h2>
 </div>
 
 <?php
