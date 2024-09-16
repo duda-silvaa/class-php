@@ -62,7 +62,7 @@ class Cliente {
     public $tipo;
     public $telefone;
     
-// dois metodos, o constructor recebe os 3 parâmetros e o exibirInform exive usando echo
+// dois metodos, o constructor recebe os 4 parâmetros e o exibirInform exive usando echo
     public function __construct($nome, $email, $tipo, $telefone) {
         $this->nome = $nome;
         $this->email = $email;
