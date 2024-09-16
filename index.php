@@ -73,7 +73,6 @@ class Cliente {
     }
 
 
-// esses pontos tá fzd a concatenação (em JavaScript usa-se o +)
     public function exibirInformacoes() {
         echo "
         <div class='cliente'>
